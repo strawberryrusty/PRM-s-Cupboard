@@ -22,7 +22,12 @@ end {
   color:orange;
 }
 
-buttom {
+button {
   color:orange;
+  border-radius: 10px;
+}
+
+button2 {
+  color:green;
   border-radius: 10px;
 }
