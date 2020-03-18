@@ -14,9 +14,15 @@ footer {
 
 body {
   color:green;
+  border-radius: 5px;
 }
 
 
 end {
   color:orange;
+}
+
+buttom {
+  color:orange;
+  border-radius: 10px;
 }
