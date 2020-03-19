@@ -10,10 +10,15 @@ header {
 
 footer {
   color:yellow;
+  border-radius: 10px;
+  border-top: 5px;
 }
 
 footer1 {
   color:yellow;
+  border-radius: 5px;
+  border-top: 10px;
+
 }
 
 body {
