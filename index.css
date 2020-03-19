@@ -12,6 +12,10 @@ footer {
   color:yellow;
 }
 
+footer1 {
+  color:yellow;
+}
+
 body {
   color:green;
   border-radius: 5px;
@@ -20,6 +24,7 @@ body {
 
 end {
   color:orange;
+  border-radius: 10px;
 }
 
 button {
