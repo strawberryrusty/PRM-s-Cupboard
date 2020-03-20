@@ -14,12 +14,19 @@ footer {
   border-top: 5px;
 }
 
+
 footer1 {
   color:yellow;
   border-radius: 5px;
   border-top: 10px;
-
 }
+
+footer2 {
+  color:orange;
+  border-radius: 7px;
+  border-top: 8px;
+}
+
 
 body {
   color:green;
