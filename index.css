@@ -1,51 +1,57 @@
 /* css styles */
 
-main {
+.main {
   colour: blue;
 }
 
-header {
+.start {
+  colour: green;
+  border-radius: 10px;
+}
+
+
+.header {
   color:yellow;
 }
 
-footer {
+.footer {
   color:yellow;
   border-radius: 10px;
   border-top: 5px;
 }
 
 
-footer1 {
+.footer1 {
   color:yellow;
   border-radius: 5px;
   border-top: 10px;
 }
 
-footer2 {
+.footer2 {
   color:orange;
   border-radius: 7px;
   border-top: 8px;
 }
 
 
-body {
+.body {
   color:green;
   border-radius: 5px;
 }
 
 
-end {
+.end {
   color:orange;
   border-radius: 10px;
 }
 
-button {
+.button {
   color:orange;
   border-radius: 10px;
 }
 
 
-button3 {
+.button3 {
   color:blue;
   border-radius: 5px;
 }
