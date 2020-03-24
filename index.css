@@ -60,20 +60,17 @@
 }
 
 
-.end {
-  color:orange;
-  border-radius: 10px;
-  border-left: 10px;
+.panel {
+  color:red;
+  border-radius: 5px;
+  border-bottom: 5px;
+  background-color: black;
 }
+
+
 
 .button {
   color:orange;
-  border-radius: 10px;
-  border-bottom: 5px;
-}
-
-.button2 {
-  color: purple;
   border-radius: 10px;
   border-bottom: 5px;
 }
