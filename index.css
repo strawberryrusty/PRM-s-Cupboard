@@ -66,8 +66,17 @@
   border-bottom: 5px;
   background-color: black;
 }
+
 .panel2 {
   color:red;
+  border-radius: 5px;
+  border-bottom: 5px;
+  background-color: black;
+}
+
+
+.panel3 {
+  color:orange;
   border-radius: 5px;
   border-bottom: 5px;
   background-color: black;
