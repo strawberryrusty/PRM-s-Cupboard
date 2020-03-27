@@ -66,22 +66,10 @@
   background-color: black;
 }
 
-.panel2 {
-  color:red;
-  border-radius: 5px;
-  border-bottom: 5px;
-  background-color: black;
-}
 
 
 .button {
   color:orange;
-  border-radius: 10px;
-  border-bottom: 5px;
-}
-
-.button2 {
-  color:red;
   border-radius: 10px;
   border-bottom: 5px;
 }
