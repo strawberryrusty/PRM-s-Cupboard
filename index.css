@@ -14,9 +14,13 @@
   border-radius: 10px;
 }
 
-
 .header {
   color:yellow;
+  border-radius: 30px;
+}
+
+.header2 {
+  color: red;
   border-radius: 30px;
 }
 
