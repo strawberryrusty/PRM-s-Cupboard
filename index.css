@@ -44,6 +44,11 @@
   border-bottom: 5px;
 }
 
+.widget {
+  color: purple;
+  border-radius: 10px;
+  border-bottom: 5px;
+}
 
 .end{
   color: green;
