@@ -10,6 +10,11 @@
 }
 
 .section2 {
+  colour: red;
+  border-radius: 15px;
+}
+
+.section2 {
   colour: pink;
   border-radius: 15px;
 }
@@ -29,5 +34,10 @@
 
 .button {
   color: red;
+  border-radius: 10px;
+}
+
+.button2 {
+  color: orange;
   border-radius: 10px;
 }
