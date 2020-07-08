@@ -19,12 +19,13 @@
   border-radius: 15px;
 }
 
-
 .body {
   color:green;
   border-radius: 5px;
   border-bottom: 5px;
   background-color: blue;
+  margin-left: 100px;
+  margin-top: 70px;
 }
 
 .button {
