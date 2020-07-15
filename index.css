@@ -1,35 +1,36 @@
 /* css styles */
 
 .main {
-  colour: blue;
+	colour: blue;
 }
 
 .section1 {
-  colour: purple;
-  border-radius: 15px;
-  background-color: blue;
+	colour: purple;
+	border-radius: 15px;
+	background-color: blue;
 }
 
 .body {
-  color:green;
-  border-radius: 5px;
-  border-bottom: 5px;
-  background-color: blue;
-  margin-left: 100px;
-  margin-top: 70px;
+	color: green;
+	border-radius: 5px;
+	border-bottom: 5px;
+	background-color: blue;
+	margin-left: 100px;
+	margin-top: 70px;
 }
 
 .button {
-  color: red;
-  border-radius: 10px;
+	color: red;
+	border-radius: 10px;
+	background-color: blue;
 }
 
 .button2 {
-  color: lime;
-  border-radius: 10px;
+	color: lime;
+	border-radius: 10px;
 }
 
 .button3 {
-  color: pink;
-  border-radius: 10px;
+	color: pink;
+	border-radius: 10px;
 }
