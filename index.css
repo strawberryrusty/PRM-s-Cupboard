@@ -37,3 +37,9 @@
 	border-radius: 10px;
 	background-color: red;
 }
+
+.footer {
+	color: lime;;
+	background-color: red;
+  margin-bottom: 10px;
+}
