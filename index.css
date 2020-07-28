@@ -8,13 +8,14 @@
 	colour: purple;
 	border-radius: 15px;
 	background-color: blue;
+  border-top: 10px;
 }
 
 .section2 {
 	colour: lime;
 	border-radius: 15px;
 	background-color: blue;
-}
+  border-top: 10px;
 
 
 
